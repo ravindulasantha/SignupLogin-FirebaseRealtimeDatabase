@@ -11,11 +11,7 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/ravindulasantha/SignupLogin-FirebaseRealtimeDatabase/blob/main/Screenshot_20230509_190127.png)
-
-![Screen Shot](https://github.com/ravindulasantha/SignupLogin-FirebaseRealtimeDatabase/blob/main/Screenshot_20230509_190139.png)
-
-![Screen Shot](https://github.com/ravindulasantha/SignupLogin-FirebaseRealtimeDatabase/blob/main/Screenshot_20230509_190146.png)
+![Screen Shot](https://github.com/ravindulasantha/SignupLogin-FirebaseRealtimeDatabase/blob/main/ssgit.png)
 
 GitHub project "Login and Signup using Firebase Realtime Database in Android Studio | Store Data" is a sample Android application that demonstrates how to implement user authentication and data storage using Firebase Realtime Database in Android Studio. The app provides users with a login and signup interface where they can create an account or log in to an existing one.
 
